@@ -3,9 +3,9 @@ The goal of this exercise is to create a product to highlight the prediction alg
 1.  A Shiny app that takes as input a phrase (multiple words) in a text box input and outputs a prediction of the next word.<br>
 2.  A slide deck consisting of no more than 5 slides created with R Studio Presenter (https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentations) pitching your algorithm and app as if you were presenting to your boss or an investor.<br>
 
-### Review criteria<br>
+## Review criteria<br>
 
-Data Product<br>
+### Data Product<br>
 1.  Does the link lead to a Shiny app with a text input box that is running on shinyapps.io?<br>
 2.  Does the app load to the point where it can accept input?<br>
 3.  When you type a phrase in the input box do you get a prediction of a single word after pressing submit and/or a suitable delay for the model to compute the answer?<br>
